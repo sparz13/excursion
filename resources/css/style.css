@@ -27,3 +27,8 @@ a {
   font-size: 21px;
   color: gray;
 }
+
+.end p {
+  color: gray;
+  text-align: right;
+}
